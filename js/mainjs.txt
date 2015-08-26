@@ -1,1 +1,3 @@
 this is js code
+test:add new line
+i just fix the bug
